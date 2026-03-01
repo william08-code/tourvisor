@@ -37,6 +37,20 @@ Alur sederhananya:
 ### Price Comparison
 ![Comparison](images/comparison.png)
 
+## Diagram UML yang Disertakan:
+- **Class Diagram**: Menunjukkan struktur kelas dalam aplikasi.
+- **Use Case Diagram**: Menunjukkan interaksi pengguna dengan sistem.
+
+  ## Diagram UML
+Berikut adalah diagram UML yang saya buat untuk menggambarkan sistem Tourvisor:
+
+- **Class Diagram**  
+![Class Diagram](uml/class-diagram.png)
+
+- **Use Case Diagram**  
+![Use Case Diagram](uml/use-case-diagram.png)
+
+
 ## Tech Stack
 
 - Laravel
